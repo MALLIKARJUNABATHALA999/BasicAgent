@@ -1,1 +1,1 @@
-# BasicAgent
+# LocalAIAgentWithRAG
